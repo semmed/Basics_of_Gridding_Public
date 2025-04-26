@@ -1,0 +1,10 @@
+horizontal units of measurement: degrees
+vertical units of measurement: meters
+projected coordinate units: NA
+geoid name: NA
+horizontal datum EPSG code: 7912
+vertical datum: EPSG code: 7912
+time basis: NA
+proj projection string: NA
+EOH
+nonsense
